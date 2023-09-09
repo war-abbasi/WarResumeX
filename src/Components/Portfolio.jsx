@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pic 3.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "My name Alphabet to customize it";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Alpha Milestone Certificate 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Being Selected as an MLSA, and promoted to Alpha Milestone in a day is a big achievement for me.",
+    url: "https://www.linkedin.com/posts/warabbasi4_microsoftlearnambassador-alpharank-achievementunlocked-activity-7103690475143913472-sbfI?utm_source=share&utm_medium=member_desktop",
   },
   {
-    title: "Web Development for Beginners",
+    title: "My MS Learn Profile",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Have learnt and achieved many trophies and Certificates throuh this.",
+    url: "https://learn.microsoft.com/en-us/users/wardahabbasi-9756/?source=docs",
   },
   {
-    title: "My Resume Site",
+    title: "My LinkedIn Profile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "By connecting through LinkedIn, you can get tomknow about My career.",
+    url: "https://www.linkedin.com/in/warabbasi4/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My GitHub Profile",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Follow me on my GitHub and let's learn together",
+    url: "https://github.com/war-abbasi",
   },
 ];
 
